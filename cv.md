@@ -5,25 +5,25 @@
 ***
 
 ### Contact information:
-- Phone: +375259025109
-- E-mail: po_tatoo@mail.ru
-- Telegram: @pink_rata
-- Discord: @rata3232
-- GitHub: [Kartowka666](https://github.com/Kartowka666)
+- _Phone: +375259025109_
+- _E-mail: po_tatoo@mail.ru_
+- _Telegram: @pink_rata_
+- _Discord: @rata3232_
+- _GitHub: [Kartowka666](https://github.com/Kartowka666)_
 
 ***
 
 ### Briefly about myself:
-I am 18 years old, studying at BSTU. I love chamomile tea and writing code at night. My goal is to improve my skills and gain new knowledge. My strengths are benevolence and non-conflict. I want to get the knowledge and skills that will be enough for employment
+_I am 18 years old, studying at BSTU. I love chamomile tea and writing code at night. My goal is to improve my skills and gain new knowledge. My strengths are benevolence and non-conflict. I want to get the knowledge and skills that will be enough for employment_
 
 ***
 
 ### Skills:
-- HTML5, CSS3
-- C++ Basics
-- JavaScript Basics
-- VS Code, VS
-- Figma
+- _HTML5, CSS3_
+- _C++ Basics_
+- _JavaScript Basics_
+- _VS Code, VS_
+- _Figma_
 
 ***
 
@@ -47,10 +47,10 @@ if (index % 2 != 0)
 ***
 
 ### Education
-- Belarusian State Technological University (year of admission - 2022)
-  - Faculty of Information Technology
+- _Belarusian State Technological University (year of admission - 2022)_
+  - _Faculty of Information Technology_
 
 ***
 
 ### English language  
-- A1
+- _A1_
