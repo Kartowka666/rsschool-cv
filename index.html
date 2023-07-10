@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en-US">
     <head>
         <title>CV</title>
@@ -62,11 +63,11 @@
         if (index % 2 != 0)
             {
             int quantity = size - index, sizeB = quantity / 2, indexFirst = index + 2;
-            for (j = 0; j < sizeB; j++)
+            for (j = 0; j &lt sizeB; j++)
                 {
                     B[j] = A[indexFirst];
                     indexFirst += 2;
-                    cout << B[j] << " | ";
+                    cout &lt&lt B[j] &lt&lt " | ";
                 }
                  bubbleSort(B, sizeB);
             }
@@ -105,5 +106,6 @@
                   </nav>
             </div>
         </footer>
+
     </body>
 </html>
